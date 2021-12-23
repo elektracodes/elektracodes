@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: She/her
 - :seedling: &nbsp;I’m currently studying for **<a target="_blank" rel="noreferrer" href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">Solution Architect</a>**
-- :speech_balloon: &nbsp;I like to talk about **Microservices** and **JavaScript**
+- :speech_balloon: &nbsp;I like to talk about **JavaScript**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - #️⃣: &nbsp;Let's talk more in **[Twitter]**
 

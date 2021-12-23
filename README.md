@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left" id="elektra-title">:wave: Hello there! I'm Elektra Bilali-Simou</h1>
+<h1 align="left" id="elektra-title">:wave: Hello there!</h1>
 <h3 align="left">I am a Full-Stack Developer at <a target="_blank" rel="noreferrer" href="https://www.orfium.com/" alt="Orfium">Orfium</a> with 10+ years of experience</h3>
 
 

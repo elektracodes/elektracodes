@@ -22,11 +22,10 @@ Here are some ideas to get you started:
 </a>
 
 - 😄 Pronouns: She/her
-- :seedling: &nbsp;I’m currently studying for **<a target="_blank" rel="noreferrer" href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">AWS Solution Architect</a>**
+- :seedling: &nbsp;I’m currently studying for **<a target="_blank" rel="noreferrer" href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">Solution Architect</a>**
 - :speech_balloon: &nbsp;I like to talk about **Microservices** and **JavaScript**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - #️⃣: &nbsp;Let's talk more in **[Twitter]**
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 
 <br>
 

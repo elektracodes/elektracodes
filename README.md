@@ -92,7 +92,7 @@ Here are some ideas to get you started:
     </td>
             <td align="center" width="96">
       <a href="#elektra-tech">
-        <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="48" height="48" alt="Angular" />
+        <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp" width="48" height="48" alt="Angular" />
       </a>
       <br>Docker
     </td>

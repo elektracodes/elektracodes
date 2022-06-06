@@ -174,7 +174,3 @@ Here are some ideas to get you started:
 
 
 
-[![Elektra's github activity graph](https://activity-graph.herokuapp.com/graph?username=elektracodes&theme=react-dark)](https://github.com/elektracodes)
-
-
-

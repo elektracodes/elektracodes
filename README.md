@@ -32,135 +32,83 @@ Here are some ideas to get you started:
 <h2 align="left" id="elektra-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I usually work with
-
-
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#elektra-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      <br /> JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#elektra-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      <br /> TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#elektra-tech">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-   <td align="center" width="96"> 
-      <a href="#elektra-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-          <td align="center" width="96"> 
-      <a href="#elektra-tech">
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
-      </a>
-      <br>Next JS
-    </td>
-     <td align="center"  width="96">
-      <a href="#elektra-tech">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
-      </a>
-      <br>Gatsby
-    </td>
-        <td align="center" width="96">
-      <a href="#elektra-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="48" height="48" alt="Vue" />
-      </a>
-      <br>Vue
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
+      <br /> Node
     </td>
     <td align="center" width="96">
-      <a href="#elektra-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Angular
+      <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+      <br /> PHP
     </td>
-        <td align="center" width="96">
-      <a href="#elektra-tech">
-        <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.svg" width="48" height="48" alt="Webpack" />
-      </a>
-      <br>Webpack
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+      <br /> Python
     </td>
-            <td align="center" width="96">
-      <a href="#elektra-tech">
-        <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Docker
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/320px-Go_Logo_Blue.svg.png" width="48" height="48" alt="Go" />
+      <br /> Go
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-128x128-blk.png" width="48" height="48" alt="Rust" />
+      <br /> Rust
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" width="48" height="48" alt="AWS" />
+      <br /> AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp" width="48" height="48" alt="Angular" />
+      <br /> Docker
     </td>
   </tr>
-  
   <tr>
-            <td align="center" width="96">
-      <a href="#elektra-tech">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Node JS
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="48" height="48" alt="Vue" />
+      <br /> Vue
     </td>
     <td align="center" width="96">
-      <a href="#elektra-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
+      <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      <br /> React
     </td>
     <td align="center" width="96">
-      <a href="#elektra-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
-      </a>
-      <br>Django
-    </td>
-      <td align="center" width="96">
-      <a href="#elektra-tech">
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-    <td align="center"  width="96">
-      <a href="#elektra-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
-      </a>
-      <br>WordPress
-    </td>
-   <td align="center"  width="96">
-      <a href="#elektra-tech" >
-        <img src="https://www.yiiframework.com/image/design/logo/yii3_sign.svg" width="48" height="48" alt="Yii" />
-      </a>
-      <br>Yii
-    </td> 
-    <td align="center" width="96"> 
-      <a href="#elektra-tech" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96"> 
-      <a href="#elektra-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48" height="48" alt="C" />
-      </a>
-      <br>PostgreSQL
+      <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
+      <br /> Next JS
     </td>
     <td align="center" width="96">
-      <a href="#elektra-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
+      <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
+      <br /> Gatsby
     </td>
-        <td align="center" width="96">
-      <a href="#elektra-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" width="48" height="48" alt="AWS" />
-      </a>
-      <br>AWS
+    <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+      <br /> Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
+      <br /> WordPress
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48" height="48" alt="C" />
+      <br /> PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://seeklogo.com/images/A/aws-dynamodb-logo-CF7BCC577D-seeklogo.com.png" width="48" height="48" alt="Mongo DB" />
+      <br /> Dynamodb
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
+      <br /> GraphQL
     </td>
   </tr>
-    
 </table>
 
 ## ✍️ Latest Articles 

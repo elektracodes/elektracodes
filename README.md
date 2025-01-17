@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="left" id="elektra-title">:wave: Hello there!</h1>
-<h3 align="left">I am Principal Engineer at <a target="_blank" rel="noreferrer" href="https://www.orfium.com/" alt="Orfium">Orfium</a> with 10+ years of experience</h3>
+<h3 align="left">I am Solution Architect at <a target="_blank" rel="noreferrer" href="https://pcg.io/" alt="Public Cloud Group">Public Cloud Group</a> with 10+ years of experience</h3>
 
 - 😄 Pronouns: She/her
-- :seedling: &nbsp;I’m currently studying for **<a target="_blank" rel="noreferrer" href="https://www.isaqb.org">Software Architect</a>**
 - :speech_balloon: &nbsp;I like to talk about **JavaScript**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - #️⃣ &nbsp;Let's talk more in **[Twitter]**
@@ -105,11 +104,6 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-
-## ✍️ Latest Articles 
-### *TBA* 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
 [linkedin]: https://www.linkedin.com/in/elektra-bilali-simou "LinkedIn"

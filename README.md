@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="left" id="elektra-title">:wave: Hello there!</h1>
-<h3 align="left">I am Solution Architect at <a target="_blank" rel="noreferrer" href="https://pcg.io/" alt="Public Cloud Group">Public Cloud Group</a> with 10+ years of experience</h3>
+<h3 align="left">I am Solution Architect at <a target="_blank" rel="noreferrer" href="https://wonderful.ai/" alt="Wonderful AI">Wonderful AI</a> with 10+ years of experience</h3>
 
 - 😄 Pronouns: She/her
-- :speech_balloon: &nbsp;I like to talk about **JavaScript**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - #️⃣ &nbsp;Let's talk more in **[Twitter]**
 

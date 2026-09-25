@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <h3 align="left">I am AI Architect at <a target="_blank" rel="noreferrer" href="[https://www.workable.com](https://www.workable.com/)" alt="Workable">Workable</a> with 10+ years of experience</h3>
 
 - 😄 Pronouns: She/her
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/elektra-bilali-simou/)**
 
